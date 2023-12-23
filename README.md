@@ -4,4 +4,4 @@ The challenge in the dynamic world of game design is often in creating experienc
 
 LINK TO WEBSITE: [STRANDED - Stuck in a vacation gone wrong? Time to put those survival videos to use!](https://sites.google.com/view/stranded-board-game-iat-210/home)
 
-![](Host-Images/image.png)
+![](Host-Images/1.jpg)
